@@ -16,9 +16,8 @@ We used OpenCV to find lane lines in this image, and then in a video from the sa
   End results is this:
   ![image](https://github.com/Calle-Lundqvist/Self-driving-car-Udemy/assets/85300362/e54aa259-e6df-4f89-9971-da5080888f61)
 
-And here is the results when applying our algorithm on each frame of a video.
+![video](Section_5_finding-lanes/output.mp4)
 
-https://github.com/Calle-Lundqvist/Self-driving-car-Udemy/assets/85300362/4e858c5b-b89c-49fa-b518-8d67225d8fd8.mp4
 
 
 ## Self-driving car project
